@@ -1,0 +1,6 @@
+name: node-hello
+description: demo of nodejs project
+version: 0.0.3
+category: demo
+maintainer: west@misfit.com
+projectURL: https://github.com/forhot2000/node-hello

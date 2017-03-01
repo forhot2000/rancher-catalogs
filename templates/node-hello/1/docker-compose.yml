@@ -1,0 +1,4 @@
+web:
+  image: forhot2000/node-hello
+  ports:
+    - 8080

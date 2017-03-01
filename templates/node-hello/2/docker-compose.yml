@@ -1,0 +1,4 @@
+web:
+  image: forhot2000/node-hello
+  environment:
+    ENV: ${ENV}

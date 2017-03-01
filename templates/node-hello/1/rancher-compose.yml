@@ -1,0 +1,15 @@
+.catalog:
+  name: node-hello
+  version: 0.0.2
+  description: demo of nodejs project
+  questions:
+    - variable: ENV
+      label: Environment name
+      type: string 
+      description: "For example: development|staging|production"
+      required: true
+
+web:
+  scale: 1
+  upgrade_strategy:
+    start_first: true
